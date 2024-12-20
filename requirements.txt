@@ -3,3 +3,4 @@ playwright
 python-anticaptcha
 pandas
 python-dateutil
+setuptools
