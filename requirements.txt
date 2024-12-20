@@ -1,4 +1,5 @@
 streamlit
 playwright
-pandas
 python-anticaptcha
+pandas
+python-dateutil
